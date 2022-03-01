@@ -70,11 +70,15 @@ https://miro.com/app/board/uXjVOKNZg6o=/?invite_link_id=617942212274
 
 La clasificación por tarjetas es una técnica que consiste en pedir a los usuarios que organicen la información en grupos lógicos. Tras conocer los requisitos del usuario la clasificación por tarjetas se realiza para tener una idea de qué tipo de características y flujos ayudarían al usuario a alcanzar sus objetivos que ayudarán a organizar la arquitectura de la información.
 
+https://miro.com/app/board/uXjVOKNZg6o=/?invite_link_id=617942212274
+
 ![1646118926464.png](image/Primer_practica/1646118926464.png)
 
 ### Arquitectura de la información
 
 La arquitectura de la información es una representación visual para los usuarios, de modo que éstos puedan conocer las características y la funcionalidad del producto y puedan encontrar cualquier cosa fácilmente.
+
+https://miro.com/app/board/uXjVOKNZg6o=/?invite_link_id=617942212274
 
 ![1646118935562.png](image/Primer_practica/1646118935562.png)
 
@@ -82,7 +86,11 @@ La arquitectura de la información es una representación visual para los usuari
 
 ### Low Fidelity Wireframes
 
+
 ### High Fidelity Wireframes
+
+https://www.figma.com/file/03buVInBwyNQoMYHrHE63o/Wireframes?node-id=74%3A45
+
 
 ### Mockups
 
