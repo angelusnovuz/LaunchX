@@ -1,6 +1,6 @@
 # **LaunchX-Primera practica**
 
-![1646108129210.png](image/Primer_practica/1646108129210.png)
+![1646117335514.png](image/Primer_practica/1646117335514.png)
 
 ## **Overview**
 
@@ -27,6 +27,19 @@ La solución
 # **Proceso de Diseño**
 
 La estrategia de diseño es el marco inicial de un proyecto que aclara ¿qué diseñar? y ¿por qué? antes de abordar cómo diseñarlo. Es la visión de una solución que debe validarse con clientes potenciales reales para demostrar que es deseada en el mercado. Comencé mi proyecto con un enfoque centrado en el usuario, abordando la experiencia del usuario en su totalidad.
+
+<<<<<<< HEAD
+============
+
+![Proceso de diseño.jpg](img/Proceso de diseño.jpg)
+
+>>>>>>> 277fd4c23181469d492057aefb35d55ecb472b49
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 ## Bosquejo de la app:
 
