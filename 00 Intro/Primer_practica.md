@@ -28,7 +28,7 @@ La solución
 
 La estrategia de diseño es el marco inicial de un proyecto que aclara ¿qué diseñar? y ¿por qué? antes de abordar cómo diseñarlo. Es la visión de una solución que debe validarse con clientes potenciales reales para demostrar que es deseada en el mercado. Comencé mi proyecto con un enfoque centrado en el usuario, abordando la experiencia del usuario en su totalidad.
 
-![1646106451375.png](image/Primer_practica/1646106451375.png)
+![1646106451375.png](img/Proceso de diseño.jpg)
 
 ## Bosquejo de la app:
 
