@@ -18,16 +18,16 @@ Para el caso del administrador deberá loguearse con la cuenta que les fue asign
 
 ### Requerimientos
 
-1. Sistema registro en la plataforma
-2. Formulario autmatizado de generacion de demandas
-3. Transacciones dentro de la propia plataforma
-4. Linea del tiempo que muestra el desarrollo de cada caso
-5. Acceso con permisos especiales para el equipo de abogados
-6. Dashboard del status financiero
-7. Panel de modificaciones y actulizaciones de cada caso
-8. Exportacion de archivos a partir del formulario
+* Sistema registro en la plataforma
+* Formulario autmatizado de generacion de demandas
+* Transacciones dentro de la propia plataforma
+* Linea del tiempo que muestra el desarrollo de cada caso
+* Acceso con permisos especiales para el equipo de abogados
+* Dashboard del status financiero
+* Panel de modificaciones y actulizaciones de cada caso
+* Exportacion de archivos a partir del formulario
 
-# **Proceso de Diseño**
+## **Proceso de Diseño**
 
 La estrategia de diseño es el marco inicial de un proyecto que aclara ¿qué diseñar? y ¿por qué? antes de abordar cómo diseñarlo. Es la visión de una solución que debe validarse con clientes potenciales reales para demostrar que es deseada en el mercado. Comencé mi proyecto con un enfoque centrado en el usuario, abordando la experiencia del usuario en su totalidad.
 
@@ -39,6 +39,7 @@ La estrategia de diseño es el marco inicial de un proyecto que aclara ¿qué di
 
 Un buyer persona es una representación semi-ficticia de tu cliente ideal, elaborada a partir de estudios de mercado y datos reales sobre tus clientes existentes. Los buyer personas proporcionan estructura y contexto a tu empresa. Esto hace que sea más fácil diseñar el contenido, asignar el tiempo y los recursos del equipo y lograr una alineación en toda la organización. Si tienes información sobre el cliente ideal (desafíos, objetivos, datos demográficos, etc.), puedes implementar una estrategia para atraer a los mejores visitantes, leads y clientes para tu empresa.
 
+![1646165510296.png](image/Primer_practica/1646165510296.png)
 
 Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago es una persona muy activa. Es el primero en llegar a su trabajo y el último en irse. Estudió Contabilidad en la universidad porque siempre tuvo facilidad con las matemáticas y quería manejar las finanzas del negocio de su padre. Al graduarse empezó a trabajar tiempo completo en el negocio de su padre haciendo de esta una de las más exitosas del estado. Al pasar de los años compró la empresa a su padre, convirtiéndose en el único dueño. Tiene un grupo pequeño de amigos con los que les gusta salir a divertirse, pero rara vez encuentra tiempo para hacerlo. No tiene esposa aún, pero planea tenerla en los próximos años.
 
@@ -86,12 +87,51 @@ https://miro.com/app/board/uXjVOKNZg6o=/?invite_link_id=617942212274
 
 ### Low Fidelity Wireframes
 
+![1646166671403.png](image/Primer_practica/1646166671403.png)
 
 ### High Fidelity Wireframes
 
 https://www.figma.com/file/03buVInBwyNQoMYHrHE63o/Wireframes?node-id=74%3A45
 
+![1646168148973.png](image/Primer_practica/1646168148973.png)
+
+![1646168159393.png](image/Primer_practica/1646168159393.png)
+
+![1646168167460.png](image/Primer_practica/1646168167460.png)
+
+![1646168188126.png](image/Primer_practica/1646168188126.png)
+
+![1646168195651.png](image/Primer_practica/1646168195651.png)
+
+![1646168202735.png](image/Primer_practica/1646168202735.png)
+
+![1646168208640.png](image/Primer_practica/1646168208640.png)
+
+![1646168214470.png](image/Primer_practica/1646168214470.png)
 
 ### Mockups
 
 https://www.figma.com/file/03buVInBwyNQoMYHrHE63o/Wireframes?node-id=0%3A1
+
+![1646166151001.png](image/Primer_practica/1646166151001.png)
+
+![1646166172277.png](image/Primer_practica/1646166172277.png)
+
+![1646166180896.png](image/Primer_practica/1646166180896.png)
+
+![1646166188668.png](image/Primer_practica/1646166188668.png)
+
+![1646166203969.png](image/Primer_practica/1646166203969.png)
+
+![1646166220649.png](image/Primer_practica/1646166220649.png)
+
+
+![1646166230156.png](image/Primer_practica/1646166230156.png)
+
+
+![1646166245131.png](image/Primer_practica/1646166245131.png)
+
+![1646166252094.png](image/Primer_practica/1646166252094.png)
+
+
+![1646166260022.png](image/Primer_practica/1646166260022.png)
