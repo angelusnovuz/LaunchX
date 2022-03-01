@@ -28,8 +28,6 @@ La solución
 
 La estrategia de diseño es el marco inicial de un proyecto que aclara ¿qué diseñar? y ¿por qué? antes de abordar cómo diseñarlo. Es la visión de una solución que debe validarse con clientes potenciales reales para demostrar que es deseada en el mercado. Comencé mi proyecto con un enfoque centrado en el usuario, abordando la experiencia del usuario en su totalidad.
 
-![1646106451375.png](image/Primer_practica/1646106451375.png)
-
 ## Bosquejo de la app:
 
 ### Usuario
@@ -79,7 +77,7 @@ Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago e
 Tu público objetivo es tu grupo de clientes potenciales. Es el conjunto de personas que podría estar interesada en tu producto o servicio. Encontrar tu público objetivo es un paso fundamental para el marketing eficaz, el desarrollo de productos y la estrategia de negocios general. Los análisis de público objetivo consisten en describir a tu audiencia en términos de una variedad de parámetros demográficos, como la edad y el género, y de otras variables como ingresos, educación y ubicación o psicográficas como intereses y opiniones. Analizar el público objetivo te ofrece información valiosa para la mayoría de las funciones de negocios.
 https://miro.com/app/board/uXjVOJnscFs=/?invite_link_id=292050268838
 
-![1646107762216.png](image/Primer_practica/1646107762216.png)
+![1646107762216.png](image/Primer_practica/1646107762216.jpg)
 
 ### Perfil Geográfico:
 
@@ -141,7 +139,7 @@ La arquitectura de la información es una representación visual para los usuari
 
 ### Mockups
 
-https://www.figma.com/file/03buVInBwyNQoMYHrHE63o/Wireframes?node-id=0%3A1 
+https://www.figma.com/file/03buVInBwyNQoMYHrHE63o/Wireframes?node-id=0%3A1
 
 ![1646114854144.png](image/Primer_practica/1646114854144.png)
 
@@ -152,3 +150,7 @@ https://www.figma.com/file/03buVInBwyNQoMYHrHE63o/Wireframes?node-id=0%3A1
 ![1646114889127.png](image/Primer_practica/1646114889127.png)
 
 ![1646114907316.png](image/Primer_practica/1646114907316.png)
+
+![1646117092723.png](image/Primer_practica/1646117092723.png)
+
+![1646117105652.png](image/Primer_practica/1646117105652.png)
