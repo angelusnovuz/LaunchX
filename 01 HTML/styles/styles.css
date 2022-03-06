@@ -1,0 +1,279 @@
+/*
+font-family: 'Parisienne', cursive; --> TITULOS
+font-family: 'Raleway' --> CUERPO
+
+color: #991313 --> Color de titulos
+color: #22181C --> Color del contenido
+color: #E7BA71 --> Color de botones y recuradros
+color: #E3E4E6 --> Background color
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+
+/* AJUSTES GENERALES */ 
+html, body {
+	padding: 0px;
+	margin: 0px;
+	font-size: 18px;
+	line-height: 1.7;
+	font-family: 'Raleway', Arial, sans-serif;
+	color: #22181C;
+	background-color:#E1E2E4;
+}
+
+a {
+	color: #DD356E;
+	transition: 0.5s;
+}
+a:hover {
+	color: #991313;
+	outline: none;
+	text-decoration: none;
+}
+
+p {
+	margin-bottom: 30px;
+}
+  
+h1, h2, h3, h4, h5, h6, figure {
+	color: #991313;
+	font-family: 'Raleway', Arial, sans-serif;
+	font-weight: 400;
+	margin: 0 0 20px 0;
+}
+
+.container {
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	padding: 0;
+	max-width: 1200px;
+}
+
+/* NAVBAR*/
+
+header {
+	text-align: center;
+	background-image: url(/Practica_01/assets/img/hero.jpg);
+	background-size:contain;
+	background-position:right;
+	background-repeat: no-repeat;
+	height: 100vh;
+	
+}
+
+nav {
+	display: flex; /*Poner un div a lado de otro horizontalmente  */ 
+	padding-bottom: 80px; /* Ancho de la barra */
+	color: #22181C;
+	height: 60px;
+	justify-content: space-between; /* poner espacio entre ambos y mandarlos a los extremos*/
+}
+
+nav ul {
+	display: flex;
+}
+
+nav li {
+	padding-right: 15px;
+	list-style: none; /* eliminar las viñetas */
+	font-size: .8rem;
+}
+
+nav li a {
+	color: #22181C;
+	text-decoration: none ; 
+}
+
+nav li a:hover {
+	color: #991313;
+}
+
+.active {
+	color: #22181C;
+	margin-right: 20px;
+	padding: 30px 10px;
+	font-weight: bold;
+}
+
+
+/* HERO DE LA PAGINA */
+
+h1 {
+	font-size: 2.5rem;
+	text-align: left;
+	font-family: 'Parisienne', cursive;
+	font-weight: bolder;
+	margin-top: 25px;
+}
+
+h2 {
+	font-size: 1rem;
+}
+
+h3 {
+	font-size: 1.9rem;
+
+}
+
+.hero__cta {
+	display: table;
+	background: #E7BA71;
+	padding: 15px 40px;
+	color: white;
+	text-decoration: none;
+	border-radius: 20px;
+	font-weight: bolder;
+	font-size: 16px;
+}
+
+.hero_sub {
+	padding-top: 100px;
+	text-align: left;
+	color: #22181C;
+	font-size: 1.9em;
+}
+
+/* SECCION: SOBRE NOSOTROS*/
+
+main {
+	background-color: #E1E2E4;
+}
+.presentation{
+	padding-top: 0;
+	padding: 5em 0;
+	text-align: center;
+}
+
+.subtitle{
+	color: #991313;
+	font-size: 2.5rem;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+.presentation_picture{
+	width: 150px;
+	height: 150px;
+	margin-bottom: 10px;
+	object-fit: cover;
+	object-position: top;
+}
+  
+.presentation_copy{
+	width: 80%;
+	margin: auto;
+	font-size: 1.2rem;
+	margin-bottom: 10%;
+	text-align: justify;
+}
+  
+/* SECCION: SABORES*/
+
+.productos {
+    display: flex;
+    justify-content: space-around;
+    margin: 25px 25px 0;
+    padding: 25px 25px 0;
+	padding-bottom: 50px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+
+
+.productos li {
+    list-style: none;
+    text-transform: capitalize;
+}
+
+.pastel-adornos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 20px;
+    width: 250px;
+    height: 250px;
+    box-shadow: 0 0 20px 0 #7e7e7e;
+    border-radius: 30px;
+    transition: transfom .1s;
+	background-color: white;
+}
+
+.img{
+	border-radius: 50px;
+}
+
+
+/* SECCION: FORMULARIO*/
+
+.formulario{
+	display: flex;
+	margin:5%;
+	padding-bottom: auto;
+}
+
+.ubicacion{
+	margin-right: 50px;
+}
+
+.form-label{
+	padding-right: 20px auto;
+}
+
+.testimony_img2{
+	width: 100px;
+	min-width: 140px;
+	height: 100px;
+	object-fit: contain;
+	object-position:center;
+	border-radius: 20%;
+	margin-top:px;
+	align-items: center;
+}
+
+.form-control{
+	border: 1px solid #991313;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+
+#form-btn{
+	background: #E7BA71;
+	padding: 5px 20px;
+	color: white;
+	border: #E7BA71;
+	border-radius: 10px;
+	font-weight: bolder;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+#form-btn:hover {
+	color: #991313;
+}
+
+.map{
+	padding: 30px 100px 30px 100px;
+}
+
+
+/* SECCION: FOOTER*/
+
+.footer {
+	background-color: #E7BA71;
+	color: black;
+	padding: 0.2rem;
+	text-align: center;
+}
