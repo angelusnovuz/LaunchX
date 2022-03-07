@@ -1,1 +1,1 @@
-* Bakery Page: [Page](https://codepen.io/angelusnovuz/pen/OJOqdWB) | [Code](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+* Bakery Page: [Page](https://codepen.io/angelusnovuz/full/xxPBBxY) | [Code](https://github.com/angelusnovuz/LaunchX/blob/main/01%20HTML/index.html)
