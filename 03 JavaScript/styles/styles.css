@@ -1,43 +1,48 @@
-html{
-    background-image: radial-gradient( circle 905.6px at 4.9% 7.9%,  rgba(218,0,0,1) 14.1%, rgba(168,2,144,1) 65%, rgba(102,2,110,1) 90% );
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&display=swap');
+
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    font-family: 'Padauk', sans-serif;
 }
 
-form {
-    width: 200px;
+.card{
+    height: 95vh;
+    width: 300px;
+    background: rgba(255, 255, 255, 0.01);
+    border-radius: 15px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
     margin: 20px auto;
 }
 
-input {
-    width: 100%;
-    padding: 5px;
+.search-bar {
+    border: 1px white;
+    background: rgba(255, 255, 255, 0.1);
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+    margin: 20px 50px 0 50px;
 }
+
 
 .poke-card {
     position: relative;
     height: fit-content;
-    font-family: 'Roboto Mono', monospace;
     max-width: 300px;
     border-radius: 4px;
     color: #000;
     text-align: center;
     padding: 10px;
     margin: 0 auto;
-    background-color: #FFF;
-    border: 1px solid black;
+    background: rgba(255, 255, 255, 0.01);
 }
 
-.poke-card::before {
-    content: '';
-    background: radial-gradient(black 33%, transparent 33%);
-    background-size: 3px 3px;
-    border-radius: 4px;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    left: 10px;
-    top: 10px;
-    z-index: -1;
-}
 
 .img-container {
     position: relative;
