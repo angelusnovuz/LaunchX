@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,21 +7,27 @@
     <title>Pokedex</title>
     <link rel="stylesheet" href="styles/normalize.css">
 	<link rel="stylesheet" href="styles/styles.css">
-	<script src="javascripts/app.js" type="text/javascript" defer></script>
 </head>
 <body>
-    <form action="" onsubmit=" buscarPokemon(event)">
-        <input type="text" name="pokemon" autocomplete="off">
-    </form>
 
-    <div pokeContainer class="poke-card">
-        <div pokeNombre>POKEDEX</div> <!-- Nombre del Pokemon (por default pokedex) -->
-        <div pokeImgContainer class="img-container"> <!-- Imagen del pokemon-->
-            <img pokeImg class="poke-img" src="assets/img/poke-shadow.png"/> <!-- Imagen Default-->
+    <div class="card">
+        <div class="search">
+            <form action="" onsubmit=" buscarPokemon(event)">
+                <input class="search-bar" type="text" name="pokemon" placeholder="Pokémon">
+            </form>
         </div>
-        <div pokeNumero></div> <!-- Numero del Pokemon-->
-        <div pokeTipo class="poke-types"></div> <!-- Tipo del pokemon-->
-        <div pokeEstadisticas class="poke-stats"></div> <!-- Estadisticas-->
+        
+        <div pokeContainer class="poke-card">
+            <div pokeNombre>POKEDEX</div> <!-- Nombre del Pokemon (por default pokedex) -->
+            <div id ImgContainer class="img-container"> <!-- Imagen del pokemon-->
+                <img pokeImg class="poke-img" src="assets/img/poke-shadow.png"/> <!-- Imagen Default-->
+            </div>
+            <div pokeNumero></div> <!-- Numero del Pokemon-->
+            <div pokeTipo class="poke-types"></div> <!-- Tipo del pokemon-->
+            <div pokeEstadisticas class="poke-stats"></div> <!-- Estadisticas-->
+        </div>
     </div>
+    
+    <script src="javascripts/app.js" type="text/javascript" defer></script>
 </body>
 </html>
