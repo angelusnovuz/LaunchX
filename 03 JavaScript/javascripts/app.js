@@ -1,4 +1,3 @@
-
 // FUNCIONES DE LLAMADO
 
 const pokeCard = document.querySelector('[pokeContainer]');
@@ -44,7 +43,7 @@ const buscarPokemon = event => {
 }
 
 const renderPokemonData = data => {
-    const sprite =  data.sprites.front_default;
+    const sprite =  data.sprites.other.home.front_default;
     const { stats, types } = data;
 
     pokeName.textContent = data.name;
@@ -59,8 +58,6 @@ const renderPokemonData = data => {
 const setCardColor = types => {
     const colorOne = typeColors[types[0].type.name];
     const colorTwo = types[1] ? typeColors[types[1].type.name] : typeColors.default;
-    pokeImg.style.background =  `radial-gradient(${colorTwo} 33%, ${colorOne} 33%)`;
-    pokeImg.style.backgroundSize = ' 5px 5px';
 }
 
 const renderPokemonTypes = types => {
